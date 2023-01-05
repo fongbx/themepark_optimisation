@@ -7,10 +7,10 @@ For building the model, real-time queue time and distances between rides were fi
 
 ## Data Sources
 The following public data sources are used for this project:
-<br>1. Universal Studios Singapore App: Real-time queue times for attractions
-<br>2. [Prepare Travel Plans Website](https://stats.mom.gov.sg/Pages/Occupational-Wages-Tables2021.aspx): Estimation of ride duration
-<br>3. Google Maps: Estimated distance between rides
-<br>4. Research study by Browning et al. (2006)](https://www.researchgate.net/publication/7556034_Effects_of_obesity_and_sex_on_the_energetic_cost_and_preferred_speed_of_walking): Average walking pace
+<br>1. **Universal Studios Singapore App**: Real-time queue times for attractions
+<br>2. **[Prepare Travel Plans Website](https://stats.mom.gov.sg/Pages/Occupational-Wages-Tables2021.aspx)**: Estimation of ride duration
+<br>3. **Google Maps**: Estimated distance between rides
+<br>4. **[Research study by Browning et al. (2006)](https://www.researchgate.net/publication/7556034_Effects_of_obesity_and_sex_on_the_energetic_cost_and_preferred_speed_of_walking)**: Average walking pace
 
 ## File Description
 This project includes two excel files, one being the simulation of queue times and the other being the main model file.
